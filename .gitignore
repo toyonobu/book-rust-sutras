@@ -22,3 +22,7 @@ fib
 let_test
 let_ok
 kaimono
+coin
+check_range
+coin_type
+caesar_enc
