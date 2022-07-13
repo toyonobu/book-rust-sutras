@@ -23,8 +23,10 @@ fn decrypt(text: &str, shift: i16) -> String
 fn main()
 {
   let raw: &str = "I LOVE YOU";
-  let enc = encrypt(&raw, 3);
-  let dec = decrypt(&enc, 3);
+  let key = 3;
+ 
+  let enc = encrypt(&raw, key);
+  let dec = decrypt(&enc, key);
 
   println!("{} => {} => {}", raw, enc, dec);
 }
