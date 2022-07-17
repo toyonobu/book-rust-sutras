@@ -36,6 +36,8 @@ sum_1to10v2
 sum_1to10array
 sum_1to10vec
 if_value
+vec_macro
+vec_nomacro
 
 # Ch.2 成果物
 pow1234_5678_err
