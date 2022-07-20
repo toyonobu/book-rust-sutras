@@ -52,3 +52,4 @@ int_type
 char_type
 hex_oct_bin
 float_type
+counter
