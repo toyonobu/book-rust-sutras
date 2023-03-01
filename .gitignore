@@ -103,3 +103,6 @@ bmi_struct
 str_index_fix
 str_index_fix2
 str_string
+str_tobytes
+str_tochars
+str_static
